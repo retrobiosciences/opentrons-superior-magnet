@@ -31,6 +31,6 @@ Protocols involving SPRIselect and AMPure bead size selection perform poorly wit
 - Remove metal facade from inner side of Magnet Module
 - Remove original plate magnet
 - Install printed magnet plate adaptor
-- Remove & discard blue aluminum Alpaque baseplate
+- Remove & discard blue aluminum Alpaqua baseplate
 - Install spring-loaded magnet plate on magnet plate adaptor
 - Install microplate riser above magnet plate

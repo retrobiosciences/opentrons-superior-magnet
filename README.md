@@ -5,7 +5,7 @@ This repo contains all hardware required to upgrade the stock Opentrons Magnetic
 <p align="center">
 	<img src="https://github.com/retrobiosciences/opentrons-superior-magnet/blob/main/sup_mag.png" alt="superior!" width="500px">
   <p align="center">
-    <a href="https://github.com/retrobiosciences/opentrons-pipette-cam">pictured: pipette cam </a>
+    <a href="https://github.com/retrobiosciences/opentrons-pipette-cam">featured: pipette cam </a>
   </p>
 </p>
 
